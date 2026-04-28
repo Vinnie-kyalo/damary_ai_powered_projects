@@ -9,6 +9,7 @@ __pycache__/
 venv/
 env/
 vinnie_venv/
+damary_venv
 
 # Django
 *.log
